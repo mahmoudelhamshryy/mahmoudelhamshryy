@@ -13,20 +13,13 @@
 
 ```python
 class MahmoudElhamshary:
-    role = "Aspiring ML/DL/NLP Engineer"
-    location = "Dubai, UAE"
+    role = "Aspiring ML Engineer"
     languages = ["Python", "SQL"]
-    tools = ["Excel", "Power BI", "Git", "VS Code"]
     learning_path = [
-        "Machine Learning",
-        "Deep Learning",
-        "Natural Language Processing",
-        "Large Language Models",
+        "ML, DL, and NLP",
+        "LLMs",
         "MLOps",
         "Docker",
-        "PyTorch",
-        "TensorFlow",
-        "scikit-learn",
         "Azure",
         "Automation",
         "Django"
