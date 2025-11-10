@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Mahmoud Elhamshary 👋</h1>
+<h3 align="center">Aspiring Machine Learning Engineer | Python Enthusiast | Data & AI Explorer</h3>
 
-<!--
-**mahmoudelhamshryy/mahmoudelhamshryy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahmoud-elhamshary/">
+    <img src="https://img.shields.io/badge/Mahmoud%20Elhamshary-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+```python
+class MahmoudElhamshary:
+    role = "Aspiring ML/DL/NLP Engineer"
+    location = "Dubai, UAE"
+    languages = ["Python", "SQL"]
+    tools = ["Excel", "Power BI", "Git", "VS Code"]
+    learning_path = [
+        "Machine Learning",
+        "Deep Learning",
+        "Natural Language Processing",
+        "Large Language Models",
+        "MLOps",
+        "Docker",
+        "PyTorch",
+        "TensorFlow",
+        "scikit-learn",
+        "Azure",
+        "Automation",
+        "Django"
+    ]
+    motto = "Build intelligently. Learn continuously. Automate efficiently."
