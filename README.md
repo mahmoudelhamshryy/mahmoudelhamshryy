@@ -1,6 +1,6 @@
 <!-- Header GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+  <img src="https://github.com/user-attachments/assets/7946257e-fb49-4f51-8d95-46466f711a53" width="60%" />
 </p>
 
 <h1 align="center">Hi, I'm Mahmoud Elhamshary 👋</h1>
