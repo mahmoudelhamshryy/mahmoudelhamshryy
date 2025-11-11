@@ -54,6 +54,6 @@ class MahmoudElhamshry:
 
 #### 📌 Goals
 
-✅ Build and deploy end-to-end ML projects
-🚀 Contribute to open-source AI projects
-📚 Learn continuously and document progress professionally
++ Build and deploy end-to-end ML projects
++ Contribute to open-source AI projects
++ Learn continuously and document progress professionally
