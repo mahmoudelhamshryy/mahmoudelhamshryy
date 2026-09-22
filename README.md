@@ -1,59 +1,53 @@
-<!-- Header GIF -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7946257e-fb49-4f51-8d95-46466f711a53" width="70%"/>
-</p>
-
-<h1 align="center">Hi, I'm Mahmoud Elhamshary 👋</h1>
-<h3 align="center">Aspiring Machine Learning Engineer | Python Enthusiast | Data & AI Explorer</h3>
+<h1 align="center">Mahmoud Elhamshary</h1>
+<p align="center"><strong>AI Applications Engineer in Progress | LLMs | RAG | Forward-Deployed Engineering</strong></p>
+<p align="center">I build practical AI systems that connect models, data, retrieval, and production software.</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahmoud-elhamshary/">
-    <img src="https://img.shields.io/badge/Mahmoud%20Elhamshary-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Badge"/>
+  <a href="https://www.linkedin.com/in/mahmoud-elhamshary/">LinkedIn</a> &nbsp; | &nbsp;
+  <a href="https://github.com/mahmoudelhamshryy/local-rag-api">Featured RAG Project</a>
 </p>
 
+## What I Am Building Toward
 
-#### 🚀 About Me
+I am developing toward roles where AI meets real users, real data, and operational constraints. My current scope sits at the intersection of:
 
-```python
-class MahmoudElhamshry:
-    role = "Aspiring ML Engineer"
-    languages = ["Python", "SQL"]
-    learning_path = [
-        "ML, DL, and NLP",
-        "LLMs",
-        "MLOps",
-        "Docker",
-        "Azure",
-        "Automation",
-        "Django"
-    ]
-    motto = "Build intelligently. Learn continuously. Automate efficiently."
+- **AI applications:** useful products around models, APIs, data, and automation
+- **LLM engineering:** prompting, model providers, local inference, evaluation, and reliability
+- **Retrieval-augmented generation:** document ingestion, chunking, embeddings, vector search, grounding, and citation-ready workflows
+- **Forward-deployed engineering:** adapting technical systems to customer and operational needs, then shipping measurable solutions
+- **Production foundations:** FastAPI, Docker, observability, testing, and deployment-aware design
 
-```
----
+## Current Technical Focus
 
-#### 🧰 Tech Toolbox
+| Area | Focus |
+| --- | --- |
+| LLM applications | Provider abstraction, local/cloud inference, structured outputs, and failure handling |
+| RAG systems | PDF and document pipelines, Ollama embeddings, FAISS retrieval, and grounded responses |
+| Engineering | Python, FastAPI, LangChain, Docker, Git, and clean service boundaries |
+| Next depth | Evaluation datasets, retrieval quality, Kubernetes, CI/CD, monitoring, and secure deployment |
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux,azure,docker,tensorflow,pytorch,sklearn,postgres" />
-</p>
+## Featured Project
 
----
+### Local RAG API
 
-#### 📊 GitHub Stats
+A local-first RAG service that extracts PDF content, creates embeddings with Ollama, retrieves relevant context with FAISS, and answers through Groq or a local Llama fallback.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudelhamshryy&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudelhamshryy&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-</p>
+- **API:** FastAPI
+- **Retrieval:** FAISS + semantic search
+- **Models:** mxbai-embed-large and llama3.2:3b through Ollama
+- **Deployment:** Docker
+- **Documentation:** [View the project](https://github.com/mahmoudelhamshryy/local-rag-api)
 
----
+## How I Work
 
-#### 📌 Goals
+- Start with the user or business outcome.
+- Make the data and model boundaries explicit.
+- Prefer small, testable components over opaque demos.
+- Document trade-offs, failure modes, and the path to production.
+- Keep learning in public through focused projects and technical notes.
 
-+ Build and deploy end-to-end ML projects
-+ Contribute to open-source AI projects
-+ Learn continuously and document progress professionally
+## Open To
+
+Conversations about **AI applications, LLM engineering, RAG systems, ML platform work, and forward-deployed engineering** opportunities where I can turn emerging AI capabilities into dependable software.
+
+<p align="center"><em>Build intelligently. Learn continuously. Ship responsibly.</em></p>
