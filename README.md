@@ -1,4 +1,64 @@
 <h1 align="center">Mahmoud Elhamshary</h1>
+<p align="center"><strong>AI Applications | LLMs | RAG | LLMOps | Forward-Deployed Engineering</strong></p>
+<p align="center">Building practical AI systems with a focus on reliability, clear communication, and useful outcomes.</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahmoud-elhamshary/">LinkedIn</a> &nbsp; | &nbsp;
+  <a href="mailto:mahmoud.elhamshryy@gmail.com">Email</a>
+</p>
+
+## Professional Direction
+
+I am developing toward engineering roles at the intersection of software, data, and AI. My interests include **AI applications**, **large language models**, **retrieval-augmented generation**, **LLMOps**, and **forward-deployed engineering**.
+
+I care about the full path from an unclear problem to a dependable solution: understanding the user context, shaping the workflow, integrating the right model capabilities, and improving the system through feedback.
+
+## Areas of Focus
+
+### AI Applications
+
+Designing useful software around models, data, APIs, and automation rather than treating the model as the product by itself.
+
+### LLM Engineering
+
+Learning how to build reliable model-powered workflows through good interfaces, prompt and context design, provider choices, evaluation, and graceful failure handling.
+
+### RAG Systems
+
+Working with the concepts behind document understanding, retrieval, grounding, context quality, and answer reliability.
+
+### LLMOps
+
+Building the habits required to operate AI systems responsibly: reproducible environments, configuration, observability, testing, deployment, and practical cost and latency awareness.
+
+### Forward-Deployed Engineering
+
+Bridging technical implementation and real-world use. I am interested in discovering the actual problem, adapting a solution to its environment, communicating trade-offs, and helping it reach adoption.
+
+## Engineering Principles
+
+- Start with the user outcome and define what useful means.
+- Make assumptions, data flow, and failure modes visible.
+- Prefer simple interfaces and small, testable components.
+- Treat evaluation and feedback as part of engineering, not as an afterthought.
+- Communicate clearly with both technical and non-technical stakeholders.
+- Move from prototype to dependable service deliberately.
+
+## Current Learning Path
+
+- AI product and workflow design
+- LLM application architecture
+- Retrieval and evaluation methods
+- Deployment and observability for model-powered services
+- Kubernetes, CI/CD, and production operations
+- Technical discovery and customer-facing solution delivery
+
+## Open To
+
+Junior opportunities and conversations in **AI Applications Engineering**, **LLM Engineering**, **RAG**, **LLMOps**, **ML platforms**, and **Forward-Deployed Engineering**.
+
+<p align="center"><em>Build useful systems. Learn from reality. Improve with discipline.</em></p>
+<h1 align="center">Mahmoud Elhamshary</h1>
 <p align="center"><strong>AI Applications Engineer | LLM &amp; RAG Systems | Forward-Deployed Engineering</strong></p>
 <p align="center">I turn emerging AI capabilities into useful, testable software for real users and real workflows.</p>
 
